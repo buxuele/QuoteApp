@@ -43,4 +43,7 @@ app.listen(port, () => {
 // http://localhost:3400
 
 // git remote add origin https://github.com/buxuele/QuoteApp.git
+
+// 这一步很关键。因为默认的分支名称是 master, 而现在该为 main 了。
+// git branch -M main  
 // git push -u origin main
