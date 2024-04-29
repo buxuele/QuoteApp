@@ -28,7 +28,6 @@ https://www.jianshu.com/p/3a5bbfbf5957
 3. Fuck be normal.
 
 
-
 比如， I have the balls to ask the question.
 比如,  一个好的发送机能承受高压而不会爆炸。
 比如, Fuck be normal.
@@ -43,7 +42,6 @@ https://www.jianshu.com/p/3a5bbfbf5957
 
 Tkinter, JS， gradio？
 Flask, Django？
-
 
 中心位置只显示一条内容。
 
