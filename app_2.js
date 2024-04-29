@@ -42,3 +42,5 @@ app.listen(port, () => {
 // node app_2.js
 // http://localhost:3400
 
+// git remote add origin https://github.com/buxuele/QuoteApp.git
+// git push -u origin main
